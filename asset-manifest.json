@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tareaspwa/static/css/main.793322bf.css",
+    "main.js": "/tareaspwa/static/js/main.92190b01.js",
+    "static/js/377.c1855308.chunk.js": "/tareaspwa/static/js/377.c1855308.chunk.js",
+    "service-worker.js": "/tareaspwa/service-worker.js",
+    "index.html": "/tareaspwa/index.html",
+    "main.793322bf.css.map": "/tareaspwa/static/css/main.793322bf.css.map",
+    "main.92190b01.js.map": "/tareaspwa/static/js/main.92190b01.js.map",
+    "377.c1855308.chunk.js.map": "/tareaspwa/static/js/377.c1855308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.793322bf.css",
+    "static/js/main.92190b01.js"
+  ]
+}
