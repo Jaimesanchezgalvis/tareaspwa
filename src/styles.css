@@ -1,0 +1,40 @@
+
+body {
+    padding: 5vh;
+    background: #a5d3ee;
+    font-family: 'Quicksand',
+    sans-serif;
+
+}
+
+.container {
+    min-height: 50vh;
+    border-radius: 15px;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding: 10px;
+   background: #a5d3ee;
+   box-shadow: 20px 20px 60px #8cb3ca,
+   -20px -20px 60px #bef3ff;
+}
+
+p {
+    cursor: pointer;
+    margin: 0;
+
+}
+
+.complete {
+    text-decoration: line-through;
+}
+
+.form-control {
+    background: #e8f2f8;
+}
+
+.list-group-item{
+    background: #eaeef6;
+}
+
+
+
